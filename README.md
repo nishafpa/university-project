@@ -50,3 +50,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 UC Berkely Tutors for this Professional Course in Machine Learning and Artificial Intelligence
+
+## Brief Report of the Customer Acceptance of the Coupon
+
+After cleansing the data set, by filling missing categories to 'Unknown' and De-Duplicating the rows, the data set has Total 12,610 Customers. Out of which, Total Coupon Accepted Customers are 7,157. So, the Coupon Accepted Customers Ratio is 56.76%. This demonstrates that slightly over half of the Customers accepted the Coupons.

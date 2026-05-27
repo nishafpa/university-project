@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-UC Berkely Tutors for this Professional Certificate
+UC Berkely Tutors for this Professional Course in Machine Learning and Artificial Intelligence
